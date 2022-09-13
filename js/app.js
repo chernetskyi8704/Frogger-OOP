@@ -24,7 +24,7 @@ const PLAYER_CONF = {
   },
   step: 15,
   minDistanceToCollision: {
-    height: 72,
+    height: 75,
     width: 80,
   },
   sprite: "images/char-boy.png",
