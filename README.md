@@ -6,7 +6,7 @@ This project was aimed at the practical application of the acquired knowledge in
 
 ## What did the project give me?
 
-This project became a good practice not only for improving my professional skills, but also allowed me to build an action plan on my own, as well as identify the main tasks and subtasks that I need to solve to implement it. I used various array methods such as map and forEach, as well as asynchronous setTimeout functions that allowed me to customize the game process.
+This project became a good practice not only for improving my professional skills, but also allowed me to build an action plan on my own, as well as identify the main tasks and subtasks that I need to solve to implement it. In my project, I used for loop, various array methods such as map and forEach, as well as asynchronous setTimeout functions that allowed me to customize the game process.
 
 [Demo](https://chernetskyi8704.github.io/Frogger-OOP/) |
 [Code Base](https://github.com/chernetskyi8704/Frogger-OOP) |
